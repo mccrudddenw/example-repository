@@ -1,0 +1,19 @@
+table, th, td, tr {
+  border: 1px solid rgb(173, 21, 21);
+  border-collapse: collapse;
+  font: 1em sans-serif;
+}
+th, td, tr {
+  padding: 15px;
+  }
+  
+body {
+  background-color: lightblue;
+  }
+
+h1, p {
+  text-align: center;}
+
+table {
+  margin:auto;
+}
