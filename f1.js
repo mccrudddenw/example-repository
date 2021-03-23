@@ -4,7 +4,7 @@ function addingEventListener() {
     
 
     function clickAlert() {
-  alert('I was clicked!');
+  alert('These driver are legends, but numbers dont tell the whole story! Follow the links below and read about the men behind the visor, and what made them truly special.');
 }
 
 input.addEventListener('click', clickAlert); 
