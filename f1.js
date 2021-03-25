@@ -4,7 +4,7 @@ function addingEventListener() {
     
 
     function clickAlert() {
-  alert(`These driver are legends, but numbers don't tell the whole story! Follow the links below and read about the men behind the visor, and what made them truly special.`);
+  alert(`These drivers are legends, but numbers don't tell the whole story! Follow the links below and read about the men behind the visor, and what made them truly special.`);
 }
 
 input.addEventListener('click', clickAlert); 
